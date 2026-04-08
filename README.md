@@ -1,25 +1,22 @@
-# 👋 Hola, soy Yesser Lacayo
+# 🚀 Python Projects - Yesser Lacayo
 
-💻 Estudiante de Ingeniería en Sistemas  
-🐍 Enfocado en desarrollo con Python  
-📊 Interesado en análisis de datos y automatización  
+Este repositorio contiene proyectos desarrollados en Python como parte de mi aprendizaje.
 
-## 🚀 Proyectos
+## 📂 Proyectos
 
-### 📦 Sistema de Inventario
-Aplicación en Python para gestionar productos, cantidades y actualizaciones.
+### 📦 Inventario
+Gestión de productos y stock  
+📁 /inventario
 
-### 📊 Analizador de Datos
-Uso de pandas para analizar información desde archivos Excel.
+### 📊 Analizador Excel
+Análisis de datos con pandas  
+📁 /analizador_excel
 
-### 🤖 Automatizador de Archivos
-Script que organiza archivos automáticamente por tipo.
+### 🤖 Automatizador
+Organización automática de archivos  
+📁 /automatizador
 
 ## 🛠️ Tecnologías
 - Python
 - Pandas
 - Excel
-- HTML5 / CSS3
-
-## 📫 Contacto
-📧 yesserlac94@gmail.com
